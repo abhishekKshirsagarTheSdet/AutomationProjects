@@ -22,8 +22,8 @@ public class loginPageSteps extends basePage {
     @Given("User lands on amazon website")
     public void userLandsOnAmazonWebsite() throws SQLException {
 //        try {
-        System.setProperty("WebDriver.chrome.driver", "Path");
-        WebDriver driver = new ChromeDriver();
+//        System.setProperty("WebDriver.chrome.driver", "Path");
+//        WebDriver driver = new ChromeDriver();
 
 
 
